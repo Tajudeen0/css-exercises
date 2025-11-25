@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.number-1, .number-3, .number-5  {
+    background-color: pink
+}
+
+#number-2 {
+    color: blue;
+    font-weight: bolder;
+    font-size: 2em;
+}
+
+#number-4 {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 1.5em;;
+}
